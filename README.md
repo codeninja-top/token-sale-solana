@@ -1,2 +1,1 @@
-# token-sale-solana
-Solana program for selling tokens in ICO platform.
+# Solana program for token sale
